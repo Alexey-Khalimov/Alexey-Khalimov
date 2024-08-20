@@ -23,8 +23,8 @@
 
 
 ## Моя статистика на GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_пользователя&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexey-Khalimov&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Khalimov&layout=compact&theme=dark)
 
 
 ## Контакты и занятость
