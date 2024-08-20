@@ -21,6 +21,12 @@
 | **Ценообразование на автомобили** | Определение оптимальной цены для автомобилей на вторичном рынке на основе анализа исторических данных о продажах | scikit-learn, LightGBM |
 | **Анализ эффективности рекламных объявлений** | Оценка релевантности и эффективности рекламных объявлений в продуктовых каруселях под поисковыми запросами пользователей | pandas, scikit-learn |
 
+
+## Моя статистика на GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_пользователя&layout=compact&theme=dark)
+
+
 ## Контакты и занятость
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexey-khalimov-277081155/)
 - [![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/Alex_Khal)
