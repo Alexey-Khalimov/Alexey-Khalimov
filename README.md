@@ -27,7 +27,7 @@
 | **Анализ эффективности рекламных объявлений** | Оценка релевантности и эффективности рекламных объявлений в продуктовых каруселях под поисковыми запросами пользователей | pandas, scikit-learn |
 
 ## Контакты и занятость
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/alexey-khalimov-277081155)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([www.linkedin.com/in/alexey-khalimov-277081155](https://www.linkedin.com/in/alexey-khalimov-277081155/))
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](vortex_04@bk.ru)
 
 **Статус занятости:** Открыт для предложений
