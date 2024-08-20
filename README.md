@@ -28,7 +28,7 @@
 
 ## Контакты и занятость
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexey-khalimov-277081155/)
-- [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Alex_Khal)
+- [![Telegram](https://img.shields.io/badge/-Telegram-red?style=flat&logo=Telegram&logoColor=black)](https://t.me/Alex_Khal)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](vortex_04@bk.ru)
 
 **Статус занятости:** Открыт для предложений
